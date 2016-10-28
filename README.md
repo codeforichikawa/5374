@@ -1,4 +1,12 @@
-# 5374について
+# 5374 市川版
+
+市川市用の 5374 です。
+[Code for Ichikawa](http://codeforichikawa.org) 有志でメンテナンスしています。
+
+* ウェブサイト: http://ichikawa.5374.jp
+* Github: [codeforichikawa/5374](https://github.com/codeforichikawa/5374)
+
+## 5374について
 For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 ##「いつ、どのゴミが収集されているのか？」
 
